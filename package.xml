@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>intell_colorswatch</name>
+    <version>1.0.0.1</version>
+    <stability>stable</stability>
+    <license>OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>intell_colorswatch</summary>
+    <description>intell_colorswatch</description>
+    <notes>New</notes>
+    <authors><author><name>Amatya</name><user>intelligrape</user><email>shahid@intelligrape.com</email></author></authors>
+    <date>2012-10-27</date>
+    <time>06:23:31</time>
+    <contents><target name="magelocal"><dir name="Intell"><dir name="Colorswatch"><dir name="Block"><dir name="Adminhtml"><dir name="Colorswatch"><dir name="Edit"><file name="Form.php" hash="3f0f489b5a42b2f3756b69ac97d707e0"/><dir name="Tab"><file name="Form.php" hash="8550a2ef316dac4b292c2073d5626ef0"/></dir><file name="Tabs.php" hash="a5065edc7f21a0d5872582d6b2315c6f"/></dir><file name="Edit.php" hash="a3a739ff457869652b69f51ec88c8dcc"/><file name="Grid.php" hash="f2690ad6626771a759f60f759ab5985f"/></dir><file name="Colorswatch.php" hash="6d21c0f127752901381399db379025c4"/></dir><file name="Colorswatch.php" hash="77d72ac26dd7527ce2ee8af918c4d595"/></dir><dir name="Helper"><file name="Data.php" hash="67a8498de9a61502b878dae0e35572ef"/></dir><dir name="Model"><file name="Colorswatch.php" hash="58e10e302a879194f94c6b787596e23d"/><dir name="Mysql4"><dir name="Colorswatch"><file name="Collection.php" hash="989993cf07ffc8498be6e4926395e240"/></dir><file name="Colorswatch.php" hash="abd8a3f349000a99d2cbce94ff456fdb"/></dir><file name="Status.php" hash="8e2f254045f6d1d015f5ec5c06c97d8a"/></dir><dir name="controllers"><dir name="Adminhtml"><file name="ColorswatchController.php" hash="c355eb27b5b667e336d8f7cdfeb939f5"/></dir><file name="IndexController.php" hash="8fada94196fb5b042a67677ac018ae31"/></dir><dir name="etc"><file name="XX-adminhtml.xml" hash="7c80c15e232958f5feae8c50128e7214"/><file name="config.xml" hash="ca29b68f64ff5bbe049f5f2be3c70d42"/><file name="system.xml" hash="458afc03ca31e33ced90d5e42cacc2c1"/></dir><dir name="sql"><dir name="colorswatch_setup"><file name="mysql4-install-0.1.0.php" hash="c3ce8356cf8a37acce8d07535ebe1895"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Intell_Colorswatch.xml" hash="c2b4871fb366d29f159f9a64b2213b32"/></dir></target><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="colorswatch.xml" hash="8967607f63b8f92125619228f7e2f51e"/></dir></dir></dir></dir><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="colorswatch.xml" hash="981e2a949b10e08c1212f54d788efa33"/></dir><dir name="template"><dir name="colorswatch"><file name="colorswatch.phtml" hash="96b1be2bae3085ec5b96176558314416"/><file name="view.phtml" hash="c90943a0710c25eb86de6d92cb565055"/></dir></dir></dir></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="default"><dir name="default"><dir name="colorswatch"><dir name="js"><file name="featuredimagezoomer.js" hash="22bae1b3e7a63b43e142d049b3f68ea4"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

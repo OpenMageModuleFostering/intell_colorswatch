@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/intell_colorswatch",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "intell_colorswatch",
+    "authors": [
+    {
+        "name": "Amatya",
+        "email": "shahid@intelligrape.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
